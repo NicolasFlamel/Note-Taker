@@ -11,5 +11,13 @@
   "dependencies": {
     "express": "^4.16.4",
     "uuid": "^9.0.0"
+  },
+  "nodemonConfig": {
+    "ext": "js",
+    "ignore": [
+      "*.test.ts",
+      "db/*"
+    ],
+    "delay": "2"
   }
 }
