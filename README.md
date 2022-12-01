@@ -12,8 +12,7 @@ You can start you're own server by installing the npm dependencies with 'npm i' 
 
 ## Usage
 
-After visiting the homepage click on the 'Get Started' button to navigate to the applications page. Previous notes saved will be loaded on the left from the database in [db folder](./db/db.json). You'll be presented with a 'Note Title' and 'Note Text' fields where you can type in and once both are filled a save icon will appear on the top right to save the note. The note will then be loaded on the left side along with other previous notes which you can double click to load and view. You can click on the red trashcan next to the note to delete that particular note or click on the plus sign on the top right to clear the fields to be able to create a new note. Please see the 
-[video demonstration](https://drive.google.com/file/d/1gp5RF3bwHVmhgwx5F_JEtSqUWTh6V3pH/view) to see the application in practice. Below are examples of the application. 
+After visiting the homepage click on the 'Get Started' button to navigate to the applications page. Previous notes saved will be loaded on the left from the database in [db folder](./db/db.json). You'll be presented with a 'Note Title' and 'Note Text' fields where you can type in and once both are filled a save icon will appear on the top right to save the note. The note will then be loaded on the left side along with other previous notes which you can double click to load and view. You can click on the red trashcan next to the note to delete that particular note or click on the plus sign on the top right to clear the fields to be able to create a new note. Below are image examples of the application. 
 
 ![Home page](./images/project_preview_home.png)
 
